@@ -1,0 +1,7 @@
+C:\Users\Diego\source\repos\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\Diego\source\repos\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\Diego\source\repos\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\Diego\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csprojAssemblyReference.cache
+C:\Users\Diego\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\Diego\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb

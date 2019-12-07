@@ -1,0 +1,4 @@
+Deporte que practicaba Michael Jordan,b,futbol,baloncesto,beisbol
+Quien gano el mundial de 2014,a,Alemania,Brasil,España
+Que deporte practica Rofer Federer,c,beisbol,baloncesto,tenis
+En que pais se encuentra el estadio Wembley,c,Italia,Francia,Londres

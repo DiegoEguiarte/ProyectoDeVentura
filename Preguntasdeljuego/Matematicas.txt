@@ -1,0 +1,6 @@
+Si 50 es el 100% cuanto es el 90%,c,25,30,45
+Cual es el primer numero primo,b,4,2,3
+La campana de Gauss esta asociada a,c,electricidad,geometria,probabilidades
+El valor de PI,c,3.1417,3.1418,3.1416
+Triangulo con tres lados iguales,b,Isoceles,Equilatero,Rectangulo
+Cuantos años tiene un lustro,c,10,15,5

@@ -1,0 +1,8 @@
+Cuando acabo la II Guerra Mundial,b,1950,1945,1948
+Quien pinto la ultima cena,a,Leonardo da Vinci,Max Beckmann,Paul Cezanne
+En que año llego Cristobal Colon,c,1497,1952,1492
+En que año comenzo la II Guerra Mundial,c,1949,1959,1939
+Primer metal que empleo el hombre,b,bronce,cobre,hierro
+Nacionalidad de Pablo Neruda,c,Mexicano,Argentino,Chileno
+Napoleon Bonaparte fue emperador de,a,Francia,Italia,Rusia
+Cuando empezo la primera Guerra Mundial,c,1915,1924,1914

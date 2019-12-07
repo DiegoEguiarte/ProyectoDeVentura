@@ -1,0 +1,8 @@
+Que cantidad de huesos tiene un adulto,b,300,206,275
+Los humanos son:,c,carnivoros,herbivoros,omnivoros
+Cual es el tercer planeta,b,Marte,La Tierra,Jupiter
+En que lugar del cuerpo se produce insulina,a,pancreas,higado,riñon
+Cuantas patas tiene la araña,c,5,9,8
+Es el animal mas rapido,c,leon,tigre,guepardo
+Instrumento optico permite ver astros,b,microscopio,telescopio,macroscopio
+Unico mamifero capaz de volar,c,pato,perico,murcielago

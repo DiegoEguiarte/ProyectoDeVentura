@@ -1,0 +1,8 @@
+Cual es el rio mas largo del mundo,b,Nilo,Amazonas,Bravo
+En que continente esta Ecuador,c,Asia,Europa,America
+Lugar mas frio de la tierra,a,Antartida,Alaska,Noruega
+En que pais se encuentra la torre de Pisa,c,España,Inglaterra,Italia
+Cual es el oceano mas grande,b, Oceano Atlantico,Oceano Pacifico,Oceano Antartico
+Cual es el pais mas grande del mundo,a,Rusia,China,Canada
+Cual es el pais mas poblado de la tierra,c, Rusia,Canada,China
+A que pais pertenece la ciudad de Varsovia,b,Rusia,Polonia,Canada
